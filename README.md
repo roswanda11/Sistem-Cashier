@@ -68,11 +68,19 @@ Ini adalah tampilan transaksi dan juga cetak bukti pembayaran.
 
 ![WhatsApp Image 2023-12-08 at 06 59 00(1)](https://github.com/roswanda11/Sistem-Cashier/assets/115516632/b041319e-ba82-41ac-8ec3-2ebca7a54f0f)
 
+Ini adalah tampilan bukti pembayaran
+
+![WhatsApp Image 2023-12-08 at 08 18 29](https://github.com/roswanda11/Sistem-Cashier/assets/115516632/ad68f180-4479-4899-8188-b9f510983f09)
+
 - ## Laporan
 
 Ini adalah tampilan Laporan Data Penjualan. Dapat melihat hasil penjualan per bulan atau per hari dan juga dapat melihat keuntungan dari hasil penjualan. 
 
 ![WhatsApp Image 2023-12-08 at 07 53 47](https://github.com/roswanda11/Sistem-Cashier/assets/115516632/c204c0dc-ed04-41dd-bd8f-4e85d8d1a5fa)
+
+Output
+
+![WhatsApp Image 2023-12-08 at 08 16 23](https://github.com/roswanda11/Sistem-Cashier/assets/115516632/eb73affe-e194-4088-9162-0c3ca3e568de)
 
 - ## Nama Toko
 
