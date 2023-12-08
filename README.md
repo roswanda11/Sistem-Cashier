@@ -35,6 +35,7 @@ Melakukan Login terlebih dahulu dengan username dan password yang telah dibuat.
 - ## Dashboard
 
 Ini adalah halaman Dashboard, atau  halaman utama yang ditampilkan dalam aplikasi simasjid, terdapat beberapa tampilan yaitu : 
+
       -  Nama Barang
       -  Stock Barang
       -  Barang yang Terjual, dan
