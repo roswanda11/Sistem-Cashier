@@ -14,4 +14,8 @@
     <td>Kelas</td>
     <td>TI.22.A3</td>
   </tr>
+  <tr>
+    <td>Mata Kuliah</td>
+    <td>Rekayasa Perangkat Lunak</td>
+  </tr>
 </table>
